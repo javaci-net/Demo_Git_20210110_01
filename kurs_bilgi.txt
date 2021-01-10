@@ -1,1 +1,1 @@
-Kurs 9 Ocakda basliyor
+Kurs 9 Ocakda basliyor, 9 Ocakda Git & Maven dersi var
